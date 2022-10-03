@@ -138,6 +138,9 @@
                     <div class="text-left pb-1 border-primary mb-4">
                     <h2 class="text-primary">Login / SignUp</h2>
                 </div>
+                    
+                      <!-- Sign-up Page -->
+                    
                 <div id="customersignup">
                     <div class="row">
                         <div class="col-md-7">
@@ -217,6 +220,10 @@
                         </div>
                     </div>
                 </div>
+                     
+                    <!-- Login Page -->
+                    
+                    
                 <div id="customerlogin">
                     <div class="row">
                         <div class="col-md-7 mb-5">
